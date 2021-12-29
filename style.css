@@ -24,9 +24,9 @@ img{
   --header-height: 4.5rem;
 
   /*---COLORS------*/
-  --hue: 9;
+  --hue: 356;
   /*HSL color mode*/
-  --base-color: hsl(var(--hue) 70% 41%);
+  --base-color: hsl(var(--hue) 73% 23%);
   --base-color-second: hsl(var(--hue)65% 88%);
   --base-color-alt: hsl(var(--hue)57% 53%);
   --title-color: hsl(var(--hue)41% 10%);
@@ -146,6 +146,7 @@ body{
 
 /*------LOGO---------*/
 .logo img{
+  padding-top: 0.3rem ;
   width: 50%;
   font: 700 1.31rem var(--title-font);
   color: var(--title-color);
@@ -153,6 +154,10 @@ body{
 
 .logo span{
   color: var(--base-color);
+}
+
+.logo-alt{
+  
 }
 
 .logo-alt span{
