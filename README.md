@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Beauty Salon" src="" width="100%">
+  <img alt="Beauty Salon" src="github/" width="100%">
 </p>
 
 ## 🚀 Tecnologias
